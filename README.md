@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! Soy Cesar Marquinez👋
 
-<!--
-**cesarMarquinez0220/cesarMarquinez0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Fullstack con enfoque en soluciones móviles y arquitecturas escalables. Actualmente terminando mi carrera de Ingeniería de Sistemas Computacionales en la **UTP (Panamá)**.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- 🎓 **Tesista:** Desarrollando **GuiLact**, una solución móvil en Flutter para el apoyo a la lactancia materna.
+- 💻 **Stack principal:** Flutter, Java (Spring Boot) y Python.
+- 🎯 **Objetivo:** Crear impacto social a través de la tecnología y el software de calidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+
+### 📊 Mis Estadísticas de GitHub
+Aquí puedes ver en qué he estado trabajando últimamente:
+
+![Tus Stats de GitHub](https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=tokyonight&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_AQUÍ]&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Contacto
+- **LinkedIn:** https://www.linkedin.com/in/cesar-marquinez
+- **Portafolio:** (Próximamente)
+- **Ubicación:** Ciudad de Panamá, Panamá 🇵🇦
