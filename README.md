@@ -18,8 +18,8 @@ Desarrollador Fullstack con enfoque en soluciones móviles y arquitecturas escal
 ### 📊 Mis Estadísticas de GitHub
 Aquí puedes ver en qué he estado trabajando últimamente:
 
-![Tus Stats de GitHub](https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=tokyonight&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_AQUÍ]&layout=compact&theme=tokyonight)
+![Tus Stats de GitHub](https://github-readme-stats.vercel.app/api?username=cesarMarquinez0220&show_icons=true&theme=tokyonight&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarMarquinez0220&layout=compact&theme=tokyonight)
 
 ---
 
