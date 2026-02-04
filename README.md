@@ -16,14 +16,12 @@ Desarrollador Fullstack con enfoque en soluciones móviles y arquitecturas escal
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
 
-## 📊 Mis Estadísticas de GitHub
+### 📊 Mis Estadísticas de GitHub
+![Estadísticas de Cesar](https://github-readme-stats.vercel.app/api?username=cesarMarquinez0220&show_icons=true&theme=tokyonight&count_private=true)
 
-Aquí puedes ver en qué he estado trabajando últimamente:
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=cesarMarquinez0220&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cesarMarquinez0220&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarMarquinez0220&layout=compact&theme=tokyonight" />
-</p>
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarMarquinez0220&layout=compact&theme=tokyonight)
 
 
 
