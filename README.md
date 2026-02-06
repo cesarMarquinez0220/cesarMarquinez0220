@@ -32,5 +32,5 @@ Desarrollador Fullstack con enfoque en soluciones móviles y arquitecturas escal
 
 ### 📫 Contacto
 - **LinkedIn:** https://www.linkedin.com/in/cesar-marquinez
-- **Portafolio:** (Próximamente)
+- **Portafolio:** https://cesarmarquinez0220.github.io/portfolio-web/
 - **Ubicación:** Ciudad de Panamá, Panamá 🇵🇦
