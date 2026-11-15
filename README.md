@@ -3,7 +3,7 @@
 Desarrollador Fullstack con enfoque en soluciones móviles y arquitecturas escalables. Actualmente terminando mi carrera de Ingeniería de Sistemas Computacionales en la **UTP (Panamá)**.
 
 ### 🚀 Sobre mí
-- 🎓 **Tesista:** Desarrollando **GuiLact**, una solución móvil en Flutter para el apoyo a la lactancia materna.
+- 🎓 **Tesis:** Desarrollada **GuiLact**, una solución móvil en Flutter para el apoyo a la lactancia materna.
 - 💻 **Stack principal:** Flutter, Java (Spring Boot) y Python.
 - 🎯 **Objetivo:** Crear impacto social a través de la tecnología y el software de calidad.
 
